@@ -34,10 +34,10 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="flex flex-row gap-2 mt-[80px] cursor-pointer size-[100px]">
+        <div className="flex flex-row gap-2 mt-[80px] cursor-pointer size-[80px]">
           <a href="https://www.linkedin.com/in/vuk-markovic-60793b1b1/"><img src="/linkedin.png" alt="" /></a>
-          <a href="https://github.com/Wh1teHatUn1c0rn"><img src="/github.png" alt="" /></a>
           <a href="https://www.youtube.com/@OffensiveUnicornCrew"><img src="/youtube.png" alt="" /></a>
+          <a href="https://github.com/Wh1teHatUn1c0rn"><img src="/github.png" alt="" /></a>
         </div>
 
       </div>
