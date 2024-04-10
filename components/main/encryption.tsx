@@ -21,7 +21,7 @@ const Encryption = () => {
           Security
         </motion.div>
       </div>
-      <a target="_blank" href="https://drive.google.com/file/d/15f37yc9Kwjg3tk3xhRjyTOPRAYCEhkLg/view?usp=sharing" download="Vuk Markovic-CV.pdf">
+      <a target="_blank" href="https://drive.google.com/file/d/1RcRCpwubwTGDb-FC4cBvHUrWiIF47Rpv/view?usp=sharing" download="Vuk Markovic_CV.pdf">
       <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
         
         <div className="flex flex-col items-center group cursor-pointer w-auto h-auto">
